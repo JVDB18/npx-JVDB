@@ -1,0 +1,29 @@
+{
+  "name": "jvdb",
+  "version": "1.0.0",
+  "description": "Julie Vanderbyse's NPX Card",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx-jvdb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npx-JVDB"
+  },
+  "bin": {
+    "jvdb": ".bin/index.js"
+  },
+  "keywords": [
+    "npx",
+    "job",
+    "web",
+    "developper",
+    "card"
+  ],
+  "author": "Julie Vanderbyse",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.2"
+  }
+}
