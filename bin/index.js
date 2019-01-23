@@ -19,7 +19,7 @@ const data= {
     "br": "\n",
     "name": "Julie Vanderbyse",
     "handle": "JVDB",
-    "work": "Junior Web Developper",
+    "work": "Junior Web Developer",
     "github": "https://github.com/JVDB18",
     "twitter": "https://twitter.com/VanderbyseJ",
 
